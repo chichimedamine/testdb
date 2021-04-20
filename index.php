@@ -8,3 +8,19 @@ include "connect.php" ;
  $mobiles = $stmt->fetchAll(PDO::FETCH_ASSOC) ; 
 
  echo json_encode($mobiles) ; 
+
+
+
+
+?>
+
+
+
+
+
+
+
+
+
+
+
