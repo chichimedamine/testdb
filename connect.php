@@ -1,7 +1,7 @@
 <?php
-$dsn = "mysql:host=localhost;dbname=list games" ;
-$user = "root" ;
-$pass = "" ;
+$dsn = "mysql:host=boo2stbrvfiqvq2u9lxi-mysql.services.clever-cloud.com;dbname=boo2stbrvfiqvq2u9lxi" ;
+$user = "ulkxbdoiqzkhw4xq" ;
+$pass = "qFmX3PWJXHPtTjlYROhF" ;
 $option = array(
    PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES UTF8"
 );
